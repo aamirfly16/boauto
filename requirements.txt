@@ -1,9 +1,3 @@
-name: my_test2
-channels:
-  - <unknown>
-  - https://www.nexus.ford.com/repository/conda_gold_group
-  - https://www.nexus.ford.com/repository/conda_gold_group/
-dependencies:
   - altgraph=0.16.1=py_0
   - asn1crypto=0.24.0=py36_0
   - auto-py-to-exe=2.8.0=py36_0
@@ -90,6 +84,3 @@ dependencies:
   - xlwt=1.3.0=py36h1a4751e_0
   - zipp=3.4.1=pyhd8ed1ab_0
   - zlib=1.2.11=h62dcd97_3
-  - pip:
-    - cx-logging==3.0
-prefix: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\envs\my_test2
