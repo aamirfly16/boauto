@@ -1,0 +1,98 @@
+{
+  "build": "py_1",
+  "build_number": 1,
+  "channel": "https://www.nexus.ford.com/repository/conda_gold_group/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\whichcraft-0.5.2-py_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/whichcraft-0.5.2-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/whichcraft-0.5.2-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/whichcraft-0.5.2-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/whichcraft-0.5.2-py2.7.egg-info/installed-files.txt",
+    "Lib/site-packages/whichcraft-0.5.2-py2.7.egg-info/not-zip-safe",
+    "Lib/site-packages/whichcraft-0.5.2-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/whichcraft.py",
+    "Lib/site-packages/__pycache__/whichcraft.cpython-36.pyc"
+  ],
+  "fn": "whichcraft-0.5.2-py_1.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\whichcraft-0.5.2-py_1",
+    "type": 1
+  },
+  "md5": "9063eb3474b919d0127c5131e21ade1b",
+  "name": "whichcraft",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\whichcraft-0.5.2-py_1.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/whichcraft-0.5.2-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "4c9f6c48f1982f7d465ea37ef164bcee02950d11eb5d21d8c448aead50f14260",
+        "sha256_in_prefix": "4c9f6c48f1982f7d465ea37ef164bcee02950d11eb5d21d8c448aead50f14260",
+        "size_in_bytes": 4550
+      },
+      {
+        "_path": "site-packages/whichcraft-0.5.2-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "716260d6784d6cba331dfb3dec805bfb787bc54612200485c6db6c9dc9cfca45",
+        "sha256_in_prefix": "716260d6784d6cba331dfb3dec805bfb787bc54612200485c6db6c9dc9cfca45",
+        "size_in_bytes": 292
+      },
+      {
+        "_path": "site-packages/whichcraft-0.5.2-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/whichcraft-0.5.2-py2.7.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "6e06030ee545f005633bf366f7ae878c2b1ceb940cd92b1e2c42318200b81e52",
+        "sha256_in_prefix": "6e06030ee545f005633bf366f7ae878c2b1ceb940cd92b1e2c42318200b81e52",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/whichcraft-0.5.2-py2.7.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/whichcraft-0.5.2-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c0f9b2a4fc99f88130099dff440e0de80b43e6a342af2b6172d35962b98036b1",
+        "sha256_in_prefix": "c0f9b2a4fc99f88130099dff440e0de80b43e6a342af2b6172d35962b98036b1",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/whichcraft.py",
+        "path_type": "hardlink",
+        "sha256": "2cfcab61b73870e1a43f22060fc2f6665e17e6a3bebe78151221beb2c2f10263",
+        "sha256_in_prefix": "2cfcab61b73870e1a43f22060fc2f6665e17e6a3bebe78151221beb2c2f10263",
+        "size_in_bytes": 2881
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/whichcraft.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 6921,
+  "subdir": "noarch",
+  "timestamp": 1539219396081,
+  "track_features": "",
+  "url": "https://www.nexus.ford.com/repository/conda_gold_group/noarch/whichcraft-0.5.2-py_1.tar.bz2",
+  "version": "0.5.2"
+}

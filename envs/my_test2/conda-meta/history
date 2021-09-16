@@ -1,0 +1,256 @@
+==> 2021-05-03 16:33:22 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py create --name my_test2 flask
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::certifi-2020.6.20-py36h9f0ad1d_0
++https://www.nexus.ford.com/repository/conda_gold_group::click-7.1.2-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::flask-1.1.2-pyh9f0ad1d_0
++https://www.nexus.ford.com/repository/conda_gold_group::itsdangerous-1.1.0-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::jinja2-2.11.2-pyh9f0ad1d_0
++https://www.nexus.ford.com/repository/conda_gold_group::markupsafe-1.1.1-py36h68a101e_1
++https://www.nexus.ford.com/repository/conda_gold_group::pip-20.0.2-py_2
++https://www.nexus.ford.com/repository/conda_gold_group::python-3.6.8-h9f7ef89_7
++https://www.nexus.ford.com/repository/conda_gold_group::python_abi-3.6-1_cp36m
++https://www.nexus.ford.com/repository/conda_gold_group::setuptools-45.2.0-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::sqlite-3.34.0-h8ffe710_0
++https://www.nexus.ford.com/repository/conda_gold_group::vc-14.1-h0510ff6_3
++https://www.nexus.ford.com/repository/conda_gold_group::vs2015_runtime-15.5.2-3
++https://www.nexus.ford.com/repository/conda_gold_group::werkzeug-1.0.1-pyh9f0ad1d_0
++https://www.nexus.ford.com/repository/conda_gold_group::wheel-0.34.0-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::wincertstore-0.2-py36h7fe50ca_0
+# update specs: ['flask']
+==> 2021-05-03 16:37:48 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install flask-wtf-0.14.3-py_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::flask-wtf-0.14.3-py_0
+# update specs: ['flask-wtf[url=file:///C:/Users/ppasha/Downloads/flask-wtf-0.14.3-py_0.tar.bz2]']
+==> 2021-05-03 16:43:11 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install wtforms-2.3.3-py_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::wtforms-2.3.3-py_0
+# update specs: ['wtforms[url=file:///C:/Users/ppasha/Downloads/wtforms-2.3.3-py_0.tar.bz2]']
+==> 2021-05-03 16:44:41 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install xlsxwriter
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::xlsxwriter-1.0.5-py36_0
+# update specs: ['xlsxwriter']
+==> 2021-05-03 16:47:52 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install flask-table-0.2.10-py27_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::flask-table-0.2.10-py27_0
+# update specs: ['flask-table[url=file:///C:/Users/ppasha/Downloads/flask-table-0.2.10-py27_0.tar.bz2]']
+==> 2021-05-03 17:02:17 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py remove flask-table
+# conda version: 4.6.14
+-<unknown>::flask-table-0.2.10-py27_0
+# remove specs: ['flask-table']
+==> 2021-05-03 17:03:37 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install flask_table-0.5.0-py_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::flask_table-0.5.0-py_0
+# update specs: ['flask_table[url=file:///C:/Users/ppasha/Downloads/flask_table-0.5.0-py_0.tar.bz2]']
+==> 2021-05-03 20:16:18 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install flask-babel-2.0.0-pyhd3eb1b0_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::flask-babel-2.0.0-pyhd3eb1b0_0
+# update specs: ['flask-babel[url=file:///C:/Users/ppasha/Downloads/flask-babel-2.0.0-pyhd3eb1b0_0.tar.bz2]']
+==> 2021-05-03 20:59:54 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install babel-2.9.0-pyhd3eb1b0_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::babel-2.9.0-pyhd3eb1b0_0
+# update specs: ['babel[url=file:///C:/Users/ppasha/Downloads/babel-2.9.0-pyhd3eb1b0_0.tar.bz2]']
+==> 2021-05-03 21:01:01 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install pytz
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::pytz-2020.1-py_0
+# update specs: ['pytz']
+==> 2021-05-03 21:05:39 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install pywin32-300-py38h294d835_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::pywin32-300-py38h294d835_0
+# update specs: ['pywin32[url=file:///C:/Users/ppasha/Downloads/pywin32-300-py38h294d835_0.tar.bz2]']
+==> 2021-05-04 02:04:54 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py remove pywin32-300-py38h294d835_0.tar.bz2
+# conda version: 4.6.14
+-<unknown>::pywin32-300-py38h294d835_0
+# remove specs: ['*[url=file:///C:/Users/ppasha/Downloads/pywin32-300-py38h294d835_0.tar.bz2]']
+==> 2021-05-04 02:05:29 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install pywin32-228-py39he774522_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::pywin32-228-py39he774522_0
+# update specs: ['pywin32[url=file:///C:/Users/ppasha/Downloads/pywin32-228-py39he774522_0.tar.bz2]']
+==> 2021-05-04 02:29:04 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py remove pywin32
+# conda version: 4.6.14
+-<unknown>::pywin32-228-py39he774522_0
+# remove specs: ['pywin32']
+==> 2021-05-04 02:29:56 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install pywin32-221-py27_0.tar.bz2
+# conda version: 4.6.14
++<unknown>::pywin32-221-py27_0
+# update specs: ['pywin32[url=file:///C:/Users/ppasha/Downloads/pywin32-221-py27_0.tar.bz2]']
+==> 2021-05-04 02:39:11 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install pywin32-220-py36_2.tar.bz2
+# conda version: 4.6.14
+-<unknown>::pywin32-221-py27_0
++<unknown>::pywin32-220-py36_2
+# update specs: ['pywin32[url=file:///C:/Users/ppasha/Downloads/pywin32-220-py36_2.tar.bz2]']
+==> 2021-05-12 13:10:47 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install postgresql
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::ca-certificates-2020.7.22-0
++https://www.nexus.ford.com/repository/conda_gold_group::krb5-1.16.4-hdd46e55_0
++https://www.nexus.ford.com/repository/conda_gold_group::libiconv-1.16-he774522_0
++https://www.nexus.ford.com/repository/conda_gold_group::libpq-11.5-hb0bdaea_1
++https://www.nexus.ford.com/repository/conda_gold_group::libxml2-2.9.9-h464c3ec_0
++https://www.nexus.ford.com/repository/conda_gold_group::openssl-1.1.1-he774522_0
++https://www.nexus.ford.com/repository/conda_gold_group::postgresql-11.5-h06f7779_1
++https://www.nexus.ford.com/repository/conda_gold_group::tk-8.6.10-he774522_0
++https://www.nexus.ford.com/repository/conda_gold_group::zlib-1.2.11-h62dcd97_3
+# update specs: ['postgresql']
+==> 2021-05-12 14:06:14 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install django
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::django-2.2.6-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::sqlparse-0.3.1-py_0
+# update specs: ['django']
+==> 2021-05-12 16:04:00 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install psycopg2
+# conda version: 4.6.14
+-https://www.nexus.ford.com/repository/conda_gold_group::krb5-1.16.4-hdd46e55_0
+-https://www.nexus.ford.com/repository/conda_gold_group::libpq-11.5-hb0bdaea_1
+-https://www.nexus.ford.com/repository/conda_gold_group::openssl-1.1.1-he774522_0
+-https://www.nexus.ford.com/repository/conda_gold_group::postgresql-11.5-h06f7779_1
++https://www.nexus.ford.com/repository/conda_gold_group::krb5-1.16.3-h038dc86_1000
++https://www.nexus.ford.com/repository/conda_gold_group::libpq-10.6-h4c6b53d_1000
++https://www.nexus.ford.com/repository/conda_gold_group::openssl-1.0.2p-hfa6e2cd_0
++https://www.nexus.ford.com/repository/conda_gold_group::postgresql-10.6-hdce66b5_1000
++https://www.nexus.ford.com/repository/conda_gold_group::psycopg2-2.7.5-py36_0
+# update specs: ['psycopg2']
+==> 2021-05-12 16:06:55 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install flask-sqlalchemy
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::flask-sqlalchemy-2.4.4-pyh9f0ad1d_0
++https://www.nexus.ford.com/repository/conda_gold_group::sqlalchemy-1.2.12-py36he774522_0
+# update specs: ['flask-sqlalchemy']
+==> 2021-05-19 00:15:49 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py remove postgresql
+# conda version: 4.6.14
+-https://www.nexus.ford.com/repository/conda_gold_group::postgresql-10.6-hdce66b5_1000
+# remove specs: ['postgresql']
+==> 2021-05-22 06:12:49 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install pandas
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::intel-openmp-2020.2-254
++https://www.nexus.ford.com/repository/conda_gold_group::libblas-3.8.0-20_mkl
++https://www.nexus.ford.com/repository/conda_gold_group::libcblas-3.8.0-20_mkl
++https://www.nexus.ford.com/repository/conda_gold_group::liblapack-3.8.0-20_mkl
++https://www.nexus.ford.com/repository/conda_gold_group::mkl-2020.2-256
++https://www.nexus.ford.com/repository/conda_gold_group::numpy-1.19.1-py36h12ee977_2
++https://www.nexus.ford.com/repository/conda_gold_group::pandas-1.1.4-py36he38d939_0
++https://www.nexus.ford.com/repository/conda_gold_group::python-dateutil-2.8.1-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::six-1.15.0-py_0
+# update specs: ['pandas']
+==> 2021-05-22 18:57:58 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install xlrd
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::xlrd-2.0.1-pyhd8ed1ab_3
+# update specs: ['xlrd']
+==> 2021-05-22 19:05:01 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install xlrd==1.2.0
+# conda version: 4.6.14
+-https://www.nexus.ford.com/repository/conda_gold_group::xlrd-2.0.1-pyhd8ed1ab_3
++https://www.nexus.ford.com/repository/conda_gold_group::xlrd-1.2.0-py_0
+# update specs: ['xlrd==1.2.0']
+==> 2021-06-17 16:48:29 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install beautifulsoup4
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::beautifulsoup4-4.8.0-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::soupsieve-1.7.1-py36_0
+# update specs: ['beautifulsoup4']
+==> 2021-06-17 16:49:47 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install requests
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::asn1crypto-0.24.0-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::brotlipy-0.7.0-py36h779f372_1000
++https://www.nexus.ford.com/repository/conda_gold_group::cffi-1.14.3-py36hef61171_0
++https://www.nexus.ford.com/repository/conda_gold_group::chardet-3.0.4-py36h9f0ad1d_1007
++https://www.nexus.ford.com/repository/conda_gold_group::cryptography-2.3.1-py36h74b6da3_0
++https://www.nexus.ford.com/repository/conda_gold_group::idna-2.10-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::pycparser-2.20-py_2
++https://www.nexus.ford.com/repository/conda_gold_group::pyopenssl-18.0.0-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::pysocks-1.7.1-py36h9f0ad1d_1
++https://www.nexus.ford.com/repository/conda_gold_group::requests-2.24.0-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::urllib3-1.25.10-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::win_inet_pton-1.1.0-py36_0
+# update specs: ['requests']
+==> 2021-06-17 17:06:12 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install lxml
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::libxslt-1.1.32-hf6f1972_0
++https://www.nexus.ford.com/repository/conda_gold_group::lxml-4.2.3-py36hef2cd61_0
+# update specs: ['lxml']
+==> 2021-06-17 23:55:06 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install selenium
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::selenium-3.141.0-py36h68a101e_1001
+# update specs: ['selenium']
+==> 2021-07-20 21:43:16 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install xlwt
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::xlwt-1.3.0-py36h1a4751e_0
+# update specs: ['xlwt']
+==> 2021-07-29 13:26:55 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install cx_Freeze
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::cx_freeze-6.6-py36h68aa20f_0
++https://www.nexus.ford.com/repository/conda_gold_group::importlib-metadata-4.0.1-py36ha15d459_0
++https://www.nexus.ford.com/repository/conda_gold_group::typing_extensions-3.10.0.0-pyha770c72_0
++https://www.nexus.ford.com/repository/conda_gold_group::zipp-3.4.1-pyhd8ed1ab_0
+# update specs: ['cx_freeze']
+==> 2021-07-29 14:14:35 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install auto-py-to-exe
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::altgraph-0.16.1-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::auto-py-to-exe-2.8.0-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::bottle-0.12.17-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::bottle-websocket-0.2.9-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::eel-0.12.4-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::future-0.16.0-py36_2
++https://www.nexus.ford.com/repository/conda_gold_group::gevent-1.3.5-py36hfa6e2cd_0
++https://www.nexus.ford.com/repository/conda_gold_group::gevent-websocket-0.10.1-py36_0
++https://www.nexus.ford.com/repository/conda_gold_group::greenlet-0.4.14-py36hfa6e2cd_0
++https://www.nexus.ford.com/repository/conda_gold_group::macholib-1.11-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::pefile-2019.4.18-py_0
++https://www.nexus.ford.com/repository/conda_gold_group::pyinstaller-4.2-py36hc69ef3d_1
++https://www.nexus.ford.com/repository/conda_gold_group::pyinstaller-hooks-contrib-2020.11-pyhd8ed1ab_0
++https://www.nexus.ford.com/repository/conda_gold_group::pywin32-ctypes-0.2.0-py36_1000
++https://www.nexus.ford.com/repository/conda_gold_group::whichcraft-0.5.2-py_1
+# update specs: ['auto-py-to-exe']
+==> 2021-07-30 08:00:02 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install pywin32
+# conda version: 4.6.14
+-<unknown>::pywin32-220-py36_2
++https://www.nexus.ford.com/repository/conda_gold_group::pywin32-300-py36h68aa20f_0
+# update specs: ['pywin32']
+==> 2021-08-29 19:07:31 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install cython
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::cython-0.29.17-py36h003fed8_0
+# update specs: ['cython']
+==> 2021-08-30 00:57:04 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install jinja2-3.0.0-pyhd3eb1b0_0.tar.bz2
+# conda version: 4.6.14
+-https://www.nexus.ford.com/repository/conda_gold_group::jinja2-2.11.2-pyh9f0ad1d_0
++<unknown>::jinja2-3.0.0-pyhd3eb1b0_0
+# update specs: ['jinja2[url=file:///C:/Users/ppasha/PycharmProjects/GESBO.0/jinja2-3.0.0-pyhd3eb1b0_0.tar.bz2]']
+==> 2021-08-30 01:11:08 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install jinja2-3.0.1-pyhd3eb1b0_0.tar.bz2
+# conda version: 4.6.14
+-<unknown>::jinja2-3.0.0-pyhd3eb1b0_0
++<unknown>::jinja2-3.0.1-pyhd3eb1b0_0
+# update specs: ['jinja2[url=file:///C:/Users/ppasha/PycharmProjects/GESBO.0/jinja2-3.0.1-pyhd3eb1b0_0.tar.bz2]']
+==> 2021-09-08 14:50:19 <==
+# cmd: C:\Users\ppasha\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py install postgresql
+# conda version: 4.6.14
++https://www.nexus.ford.com/repository/conda_gold_group::postgresql-10.6-hdce66b5_1000
+# update specs: ['postgresql']

@@ -1,0 +1,238 @@
+{
+  "build": "py36ha15d459_0",
+  "build_number": 0,
+  "channel": "https://www.nexus.ford.com/repository/conda_gold_group/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0",
+    "python_abi 3.6.* *_cp36m",
+    "typing_extensions >=3.6.4",
+    "zipp >=0.5"
+  ],
+  "extracted_package_dir": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\importlib-metadata-4.0.1-py36ha15d459_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/importlib_metadata-4.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/importlib_metadata-4.0.1.dist-info/LICENSE",
+    "Lib/site-packages/importlib_metadata-4.0.1.dist-info/METADATA",
+    "Lib/site-packages/importlib_metadata-4.0.1.dist-info/RECORD",
+    "Lib/site-packages/importlib_metadata-4.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/importlib_metadata-4.0.1.dist-info/WHEEL",
+    "Lib/site-packages/importlib_metadata-4.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/importlib_metadata-4.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/importlib_metadata/__init__.py",
+    "Lib/site-packages/importlib_metadata/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_adapters.cpython-36.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_collections.cpython-36.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_compat.cpython-36.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_functools.cpython-36.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_itertools.cpython-36.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_meta.cpython-36.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_text.cpython-36.pyc",
+    "Lib/site-packages/importlib_metadata/_adapters.py",
+    "Lib/site-packages/importlib_metadata/_collections.py",
+    "Lib/site-packages/importlib_metadata/_compat.py",
+    "Lib/site-packages/importlib_metadata/_functools.py",
+    "Lib/site-packages/importlib_metadata/_itertools.py",
+    "Lib/site-packages/importlib_metadata/_meta.py",
+    "Lib/site-packages/importlib_metadata/_text.py",
+    "Lib/site-packages/importlib_metadata/py.typed"
+  ],
+  "fn": "importlib-metadata-4.0.1-py36ha15d459_0.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\importlib-metadata-4.0.1-py36ha15d459_0",
+    "type": 1
+  },
+  "md5": "92fc2a0afcd8be85af8468ff55a1206d",
+  "name": "importlib-metadata",
+  "package_tarball_full_path": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\importlib-metadata-4.0.1-py36ha15d459_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/importlib_metadata-4.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata-4.0.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c0d7ba740721989d55bd507c0fda1373e8071da742b9a48101ebf7eac60433a5",
+        "sha256_in_prefix": "c0d7ba740721989d55bd507c0fda1373e8071da742b9a48101ebf7eac60433a5",
+        "size_in_bytes": 571
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata-4.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8ee5a7f0022a4ddbb22c9a6699f68a2cfbf2dbb7e5ebb11fa8454d46eb86c778",
+        "sha256_in_prefix": "8ee5a7f0022a4ddbb22c9a6699f68a2cfbf2dbb7e5ebb11fa8454d46eb86c778",
+        "size_in_bytes": 3811
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata-4.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "79323734e955210c4cd225f0eef918e7b866465911eee524f2ba6bec97c74cb7",
+        "sha256_in_prefix": "79323734e955210c4cd225f0eef918e7b866465911eee524f2ba6bec97c74cb7",
+        "size_in_bytes": 2001
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata-4.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata-4.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata-4.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "4a85e034831180d7b50270b30884144307c19f1e788f755cb2b3aefa29ca6e38",
+        "sha256_in_prefix": "4a85e034831180d7b50270b30884144307c19f1e788f755cb2b3aefa29ca6e38",
+        "size_in_bytes": 79
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata-4.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "08eddf0fdcb29403625e4acca38a872d5fe6a972f6b02e4914a82dd725804fe0",
+        "sha256_in_prefix": "08eddf0fdcb29403625e4acca38a872d5fe6a972f6b02e4914a82dd725804fe0",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c0d6c2941c06aabc56be91db36ffb1d3f8a6b1c8de0402dc62ce6d09c717ade7",
+        "sha256_in_prefix": "c0d6c2941c06aabc56be91db36ffb1d3f8a6b1c8de0402dc62ce6d09c717ade7",
+        "size_in_bytes": 26365
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "9671de1d34eb5f5aa1269ae8157536295cdb34d6730672c459c22a44ffb34af9",
+        "sha256_in_prefix": "9671de1d34eb5f5aa1269ae8157536295cdb34d6730672c459c22a44ffb34af9",
+        "size_in_bytes": 32288
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_adapters.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "040b1f54bfc3eebe93241b682256b01e7ceefed5ba1ac3eac7afc8ecea0a8be2",
+        "sha256_in_prefix": "040b1f54bfc3eebe93241b682256b01e7ceefed5ba1ac3eac7afc8ecea0a8be2",
+        "size_in_bytes": 2321
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_collections.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "c5bf714f21d60fed2f9ef5f86b7fe4444e37874d23774010819a8bdc5ad91c29",
+        "sha256_in_prefix": "c5bf714f21d60fed2f9ef5f86b7fe4444e37874d23774010819a8bdc5ad91c29",
+        "size_in_bytes": 1481
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_compat.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4d8a7b132aa5decddd91eed0e7e63b9b7bd186d13274115f92b624cb5bd33e3",
+        "sha256_in_prefix": "d4d8a7b132aa5decddd91eed0e7e63b9b7bd186d13274115f92b624cb5bd33e3",
+        "size_in_bytes": 2435
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_functools.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "50381b2fd387c7d3d480889f98212ad035494201149fd27664a9ec54ea609b49",
+        "sha256_in_prefix": "50381b2fd387c7d3d480889f98212ad035494201149fd27664a9ec54ea609b49",
+        "size_in_bytes": 2611
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_itertools.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "1376efb1ae250b974bf69cd09a51af8790192d47362812f4f3ab02b4c7dd147e",
+        "sha256_in_prefix": "1376efb1ae250b974bf69cd09a51af8790192d47362812f4f3ab02b4c7dd147e",
+        "size_in_bytes": 551
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_meta.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4fa53aba0a1aaeea04072afb7ce65ef81231af98f7e06fd6fbad92c8f0903505",
+        "sha256_in_prefix": "4fa53aba0a1aaeea04072afb7ce65ef81231af98f7e06fd6fbad92c8f0903505",
+        "size_in_bytes": 1564
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_text.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "da5bd7d0f87b1056fb4b72332984ec409d6b5988fd19556ea5c5119c02a3d4d2",
+        "sha256_in_prefix": "da5bd7d0f87b1056fb4b72332984ec409d6b5988fd19556ea5c5119c02a3d4d2",
+        "size_in_bytes": 3037
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/_adapters.py",
+        "path_type": "hardlink",
+        "sha256": "e44eddec751f71ada8b4766d06ba4e4446d5c28e4d6542fc8f298d62ff164281",
+        "sha256_in_prefix": "e44eddec751f71ada8b4766d06ba4e4446d5c28e4d6542fc8f298d62ff164281",
+        "size_in_bytes": 1835
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/_collections.py",
+        "path_type": "hardlink",
+        "sha256": "089d0e4c21c88d6034648552e2fa0e440b27d91e11d9c40112d3ec6442690126",
+        "sha256_in_prefix": "089d0e4c21c88d6034648552e2fa0e440b27d91e11d9c40112d3ec6442690126",
+        "size_in_bytes": 743
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "240ec398877d359b6c8fa9e3f148d066e3f292d68b0934f7c07a3b8d67cf65ce",
+        "sha256_in_prefix": "240ec398877d359b6c8fa9e3f148d066e3f292d68b0934f7c07a3b8d67cf65ce",
+        "size_in_bytes": 2384
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/_functools.py",
+        "path_type": "hardlink",
+        "sha256": "989093ad4e0932b0a77690e8a8ddf36c8e8ff6d00a535d7a2e8a5c79679d8b57",
+        "sha256_in_prefix": "989093ad4e0932b0a77690e8a8ddf36c8e8ff6d00a535d7a2e8a5c79679d8b57",
+        "size_in_bytes": 2501
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/_itertools.py",
+        "path_type": "hardlink",
+        "sha256": "e53523fc03c91eade9be39f4e219cfda860179b3f6368ec798d1ff864386c0b4",
+        "sha256_in_prefix": "e53523fc03c91eade9be39f4e219cfda860179b3f6368ec798d1ff864386c0b4",
+        "size_in_bytes": 607
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/_meta.py",
+        "path_type": "hardlink",
+        "sha256": "844135c78921baf161d2d0b914001f9dbb7abe0956139cc087861f78dbf25409",
+        "sha256_in_prefix": "844135c78921baf161d2d0b914001f9dbb7abe0956139cc087861f78dbf25409",
+        "size_in_bytes": 756
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/_text.py",
+        "path_type": "hardlink",
+        "sha256": "f0e01097af5970343ee1c4f1f9156f1f0f43661e9dbf72ac289336d9b7c329f9",
+        "sha256_in_prefix": "f0e01097af5970343ee1c4f1f9156f1f0f43661e9dbf72ac289336d9b7c329f9",
+        "size_in_bytes": 2198
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 30719,
+  "subdir": "win-64",
+  "timestamp": 1619012578181,
+  "track_features": "",
+  "url": "https://www.nexus.ford.com/repository/conda_gold_group/win-64/importlib-metadata-4.0.1-py36ha15d459_0.tar.bz2",
+  "version": "4.0.1"
+}

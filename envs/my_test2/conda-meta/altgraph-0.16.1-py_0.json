@@ -1,0 +1,169 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://www.nexus.ford.com/repository/conda_gold_group/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\altgraph-0.16.1-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/altgraph-0.16.1-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/altgraph-0.16.1-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/altgraph-0.16.1-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/altgraph-0.16.1-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/altgraph-0.16.1-py2.7.egg-info/zip-safe",
+    "Lib/site-packages/altgraph/Dot.py",
+    "Lib/site-packages/altgraph/Graph.py",
+    "Lib/site-packages/altgraph/GraphAlgo.py",
+    "Lib/site-packages/altgraph/GraphStat.py",
+    "Lib/site-packages/altgraph/GraphUtil.py",
+    "Lib/site-packages/altgraph/ObjectGraph.py",
+    "Lib/site-packages/altgraph/__init__.py",
+    "Lib/site-packages/altgraph/__pycache__/Dot.cpython-36.pyc",
+    "Lib/site-packages/altgraph/__pycache__/Graph.cpython-36.pyc",
+    "Lib/site-packages/altgraph/__pycache__/GraphAlgo.cpython-36.pyc",
+    "Lib/site-packages/altgraph/__pycache__/GraphStat.cpython-36.pyc",
+    "Lib/site-packages/altgraph/__pycache__/GraphUtil.cpython-36.pyc",
+    "Lib/site-packages/altgraph/__pycache__/ObjectGraph.cpython-36.pyc",
+    "Lib/site-packages/altgraph/__pycache__/__init__.cpython-36.pyc"
+  ],
+  "fn": "altgraph-0.16.1-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\altgraph-0.16.1-py_0",
+    "type": 1
+  },
+  "md5": "f3395aaeddfcddf5d7c77174519fd68d",
+  "name": "altgraph",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\altgraph-0.16.1-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/altgraph-0.16.1-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "46a7be44b395a5c23c3c85bf058d76f295ee8a607cb2a4612f5e2eca04536301",
+        "sha256_in_prefix": "46a7be44b395a5c23c3c85bf058d76f295ee8a607cb2a4612f5e2eca04536301",
+        "size_in_bytes": 8495
+      },
+      {
+        "_path": "site-packages/altgraph-0.16.1-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "cbb067e3ce824874799065962454305e2b5787811bbe47494b13217bf77ad08a",
+        "sha256_in_prefix": "cbb067e3ce824874799065962454305e2b5787811bbe47494b13217bf77ad08a",
+        "size_in_bytes": 2721
+      },
+      {
+        "_path": "site-packages/altgraph-0.16.1-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/altgraph-0.16.1-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1c405e4567f922d54f73b63d856ee11a5acb5d98cfa0be1bcba08084157f0700",
+        "sha256_in_prefix": "1c405e4567f922d54f73b63d856ee11a5acb5d98cfa0be1bcba08084157f0700",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/altgraph-0.16.1-py2.7.egg-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/altgraph/Dot.py",
+        "path_type": "hardlink",
+        "sha256": "c8eff3b9015d38981cea0e231ecce5deb4662fa111e2410869165efddc5fa6fb",
+        "sha256_in_prefix": "c8eff3b9015d38981cea0e231ecce5deb4662fa111e2410869165efddc5fa6fb",
+        "size_in_bytes": 9867
+      },
+      {
+        "_path": "site-packages/altgraph/Graph.py",
+        "path_type": "hardlink",
+        "sha256": "56c3ca3077ff3c56350bdc2d8842b5ea44c450855354fbb8f26353fffce9deb5",
+        "sha256_in_prefix": "56c3ca3077ff3c56350bdc2d8842b5ea44c450855354fbb8f26353fffce9deb5",
+        "size_in_bytes": 20798
+      },
+      {
+        "_path": "site-packages/altgraph/GraphAlgo.py",
+        "path_type": "hardlink",
+        "sha256": "b3f04e9f81fd0ec99694040e7786e14657c78c8628fc04d074a3b9c54704d9ec",
+        "sha256_in_prefix": "b3f04e9f81fd0ec99694040e7786e14657c78c8628fc04d074a3b9c54704d9ec",
+        "size_in_bytes": 5574
+      },
+      {
+        "_path": "site-packages/altgraph/GraphStat.py",
+        "path_type": "hardlink",
+        "sha256": "2eafd4c507b0f34f0f0f961fe222a0df5487be678039d6590bb3cd8266523d80",
+        "sha256_in_prefix": "2eafd4c507b0f34f0f0f961fe222a0df5487be678039d6590bb3cd8266523d80",
+        "size_in_bytes": 1880
+      },
+      {
+        "_path": "site-packages/altgraph/GraphUtil.py",
+        "path_type": "hardlink",
+        "sha256": "0edb2a779d28e4c07d11ac58aa756f26ac821e385faa653ce28bee868d64cbb7",
+        "sha256_in_prefix": "0edb2a779d28e4c07d11ac58aa756f26ac821e385faa653ce28bee868d64cbb7",
+        "size_in_bytes": 4070
+      },
+      {
+        "_path": "site-packages/altgraph/ObjectGraph.py",
+        "path_type": "hardlink",
+        "sha256": "81862553c6d55fb9865be9e1451721be5d1d8603406f32ba4492c380dcd71875",
+        "sha256_in_prefix": "81862553c6d55fb9865be9e1451721be5d1d8603406f32ba4492c380dcd71875",
+        "size_in_bytes": 6504
+      },
+      {
+        "_path": "site-packages/altgraph/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a51050bea460c1ef41ecc747b53d4da11649c99bd9b87f41c0a815c403400989",
+        "sha256_in_prefix": "a51050bea460c1ef41ecc747b53d4da11649c99bd9b87f41c0a815c403400989",
+        "size_in_bytes": 5014
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/Dot.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/Graph.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/GraphAlgo.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/GraphStat.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/GraphUtil.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/ObjectGraph.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 19664,
+  "subdir": "noarch",
+  "timestamp": 1549153608268,
+  "track_features": "",
+  "url": "https://www.nexus.ford.com/repository/conda_gold_group/noarch/altgraph-0.16.1-py_0.tar.bz2",
+  "version": "0.16.1"
+}

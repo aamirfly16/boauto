@@ -1,0 +1,353 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://www.nexus.ford.com/repository/conda_gold_group/noarch",
+  "constrains": [],
+  "depends": [
+    "altgraph >=0.15",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\macholib-1.11-py_0",
+  "features": "",
+  "files": [
+    "Scripts/macho_dump",
+    "Scripts/macho_find",
+    "Scripts/macho_standalone",
+    "Lib/site-packages/macholib-1.11-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/macholib-1.11-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/macholib-1.11-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/macholib-1.11-py2.7.egg-info/entry_points.txt",
+    "Lib/site-packages/macholib-1.11-py2.7.egg-info/installed-files.txt",
+    "Lib/site-packages/macholib-1.11-py2.7.egg-info/requires.txt",
+    "Lib/site-packages/macholib-1.11-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/macholib-1.11-py2.7.egg-info/zip-safe",
+    "Lib/site-packages/macholib/MachO.py",
+    "Lib/site-packages/macholib/MachOGraph.py",
+    "Lib/site-packages/macholib/MachOStandalone.py",
+    "Lib/site-packages/macholib/SymbolTable.py",
+    "Lib/site-packages/macholib/__init__.py",
+    "Lib/site-packages/macholib/__main__.py",
+    "Lib/site-packages/macholib/_cmdline.py",
+    "Lib/site-packages/macholib/dyld.py",
+    "Lib/site-packages/macholib/dylib.py",
+    "Lib/site-packages/macholib/framework.py",
+    "Lib/site-packages/macholib/itergraphreport.py",
+    "Lib/site-packages/macholib/mach_o.py",
+    "Lib/site-packages/macholib/macho_dump.py",
+    "Lib/site-packages/macholib/macho_find.py",
+    "Lib/site-packages/macholib/macho_standalone.py",
+    "Lib/site-packages/macholib/ptypes.py",
+    "Lib/site-packages/macholib/util.py",
+    "Lib/site-packages/macholib/__pycache__/MachO.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/MachOGraph.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/MachOStandalone.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/SymbolTable.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/__main__.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/_cmdline.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/dyld.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/dylib.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/framework.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/itergraphreport.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/mach_o.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/macho_dump.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/macho_find.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/macho_standalone.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/ptypes.cpython-36.pyc",
+    "Lib/site-packages/macholib/__pycache__/util.cpython-36.pyc"
+  ],
+  "fn": "macholib-1.11-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\macholib-1.11-py_0",
+    "type": 1
+  },
+  "md5": "be05b497397aff0b5f00f5a2a82f2867",
+  "name": "macholib",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\macholib-1.11-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/macho_dump",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "4137afad0ccf3d9c893503331981128d587f6da2ccc5b872fca50b22127256c9",
+        "sha256_in_prefix": "f87713355bef65796457bab23b3b61139fd4c35e1c45fb958c69529e1128fc6f",
+        "size_in_bytes": 415
+      },
+      {
+        "_path": "python-scripts/macho_find",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "da9da80d1797cc6f1a47d82c760bae7c34ba32fc41aa93c63bf2fc0d3f8cf179",
+        "sha256_in_prefix": "e3270b2e9590cf9eabd650fbdfe88cf83409712bce0c45e7ecc210a49cd0f0c9",
+        "size_in_bytes": 415
+      },
+      {
+        "_path": "python-scripts/macho_standalone",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "6ab0b4658baf49a28bbd7981aa184ece3e4b41838c201d5e4d8d2ef521d717dc",
+        "sha256_in_prefix": "1b71ba3a4f00da5869bc281b6d635c5d5bdaeb63ee8190e0e4db5270783e8f8d",
+        "size_in_bytes": 427
+      },
+      {
+        "_path": "site-packages/macholib-1.11-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "eb1480f29b1a58845666ccb60f1d5aa796d2d7985872d6aabb79218b7805d1ef",
+        "sha256_in_prefix": "eb1480f29b1a58845666ccb60f1d5aa796d2d7985872d6aabb79218b7805d1ef",
+        "size_in_bytes": 13253
+      },
+      {
+        "_path": "site-packages/macholib-1.11-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "f3a14c2a1e165d58006729c781b4f50e13aea0a75c07514a6bf79f68025b16ad",
+        "sha256_in_prefix": "f3a14c2a1e165d58006729c781b4f50e13aea0a75c07514a6bf79f68025b16ad",
+        "size_in_bytes": 3651
+      },
+      {
+        "_path": "site-packages/macholib-1.11-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/macholib-1.11-py2.7.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "d00923a7c6c4ce47bf5897c938fd8e76db9dc13a4912f2f3cd0a7adfe0f6f445",
+        "sha256_in_prefix": "d00923a7c6c4ce47bf5897c938fd8e76db9dc13a4912f2f3cd0a7adfe0f6f445",
+        "size_in_bytes": 145
+      },
+      {
+        "_path": "site-packages/macholib-1.11-py2.7.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "d966e2efa62830beddff4fbb76939750fa386c57bffedcd039b3fd5d60fd4898",
+        "sha256_in_prefix": "d966e2efa62830beddff4fbb76939750fa386c57bffedcd039b3fd5d60fd4898",
+        "size_in_bytes": 1043
+      },
+      {
+        "_path": "site-packages/macholib-1.11-py2.7.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "71e7d0044c7521dbd099f571b79c4b8dff1df86ee4328d2b23587cd813595271",
+        "sha256_in_prefix": "71e7d0044c7521dbd099f571b79c4b8dff1df86ee4328d2b23587cd813595271",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "site-packages/macholib-1.11-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e34849f2959f5e8f91f33b7ccfd8c5eca4bd9222f3126b8b9df155821d14524c",
+        "sha256_in_prefix": "e34849f2959f5e8f91f33b7ccfd8c5eca4bd9222f3126b8b9df155821d14524c",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/macholib-1.11-py2.7.egg-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/macholib/MachO.py",
+        "path_type": "hardlink",
+        "sha256": "14f38008c10e053c727083a174c2892439187b3cbe72ea0180181c6e2bea3791",
+        "sha256_in_prefix": "14f38008c10e053c727083a174c2892439187b3cbe72ea0180181c6e2bea3791",
+        "size_in_bytes": 15391
+      },
+      {
+        "_path": "site-packages/macholib/MachOGraph.py",
+        "path_type": "hardlink",
+        "sha256": "8760d94ef139be571c7a22fa8dbacaf8fc119ae77dd8dea67b48c57616d42262",
+        "sha256_in_prefix": "8760d94ef139be571c7a22fa8dbacaf8fc119ae77dd8dea67b48c57616d42262",
+        "size_in_bytes": 4532
+      },
+      {
+        "_path": "site-packages/macholib/MachOStandalone.py",
+        "path_type": "hardlink",
+        "sha256": "9861ea69f1837f355e727cef24c09562ed83ff3383a368612762cdb934342b47",
+        "sha256_in_prefix": "9861ea69f1837f355e727cef24c09562ed83ff3383a368612762cdb934342b47",
+        "size_in_bytes": 5881
+      },
+      {
+        "_path": "site-packages/macholib/SymbolTable.py",
+        "path_type": "hardlink",
+        "sha256": "03d74d563058baf99931f967628aafb6689e01240df60e4cc4d4fedd3e08dcb5",
+        "sha256_in_prefix": "03d74d563058baf99931f967628aafb6689e01240df60e4cc4d4fedd3e08dcb5",
+        "size_in_bytes": 2928
+      },
+      {
+        "_path": "site-packages/macholib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d40c2b3681649c3fd86213df8bd469c1b65108b506c9523ab62234fb350f31ea",
+        "sha256_in_prefix": "d40c2b3681649c3fd86213df8bd469c1b65108b506c9523ab62234fb350f31ea",
+        "size_in_bytes": 154
+      },
+      {
+        "_path": "site-packages/macholib/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "50380ff142b9b5161f66f33b963b675dbbaa54b093de7272ff62bafc3ccb2640",
+        "sha256_in_prefix": "50380ff142b9b5161f66f33b963b675dbbaa54b093de7272ff62bafc3ccb2640",
+        "size_in_bytes": 1951
+      },
+      {
+        "_path": "site-packages/macholib/_cmdline.py",
+        "path_type": "hardlink",
+        "sha256": "22f9952b01447c3f2158d9ad88798875266b217194766956c775212a2fcb188a",
+        "sha256_in_prefix": "22f9952b01447c3f2158d9ad88798875266b217194766956c775212a2fcb188a",
+        "size_in_bytes": 1144
+      },
+      {
+        "_path": "site-packages/macholib/dyld.py",
+        "path_type": "hardlink",
+        "sha256": "ada7db41233f18106cefe9e2ba2fe594645da64c6cd1cbee56876770217207e2",
+        "sha256_in_prefix": "ada7db41233f18106cefe9e2ba2fe594645da64c6cd1cbee56876770217207e2",
+        "size_in_bytes": 5472
+      },
+      {
+        "_path": "site-packages/macholib/dylib.py",
+        "path_type": "hardlink",
+        "sha256": "7229e593c18aca85dc04ec9298ecc8c64410805ca597ae541a23bf570e17b80b",
+        "sha256_in_prefix": "7229e593c18aca85dc04ec9298ecc8c64410805ca597ae541a23bf570e17b80b",
+        "size_in_bytes": 963
+      },
+      {
+        "_path": "site-packages/macholib/framework.py",
+        "path_type": "hardlink",
+        "sha256": "3e5284900c73a11f96ce027006d7b2195671c78d268a12dd3c338690dfbd102f",
+        "sha256_in_prefix": "3e5284900c73a11f96ce027006d7b2195671c78d268a12dd3c338690dfbd102f",
+        "size_in_bytes": 1119
+      },
+      {
+        "_path": "site-packages/macholib/itergraphreport.py",
+        "path_type": "hardlink",
+        "sha256": "d57fb94ba496b21e6d08b844b84c80d0158d1e58b08744df9ab6d222644f7499",
+        "sha256_in_prefix": "d57fb94ba496b21e6d08b844b84c80d0158d1e58b08744df9ab6d222644f7499",
+        "size_in_bytes": 1907
+      },
+      {
+        "_path": "site-packages/macholib/mach_o.py",
+        "path_type": "hardlink",
+        "sha256": "887375f881f1ec13d2785c103471add58f1e2fd82360cee220068e02176414c3",
+        "sha256_in_prefix": "887375f881f1ec13d2785c103471add58f1e2fd82360cee220068e02176414c3",
+        "size_in_bytes": 48709
+      },
+      {
+        "_path": "site-packages/macholib/macho_dump.py",
+        "path_type": "hardlink",
+        "sha256": "48c1c9021eb18284ccc7c6ce4c2a344b94e7271434302e7d7b7f62a52014aa49",
+        "sha256_in_prefix": "48c1c9021eb18284ccc7c6ce4c2a344b94e7271434302e7d7b7f62a52014aa49",
+        "size_in_bytes": 1468
+      },
+      {
+        "_path": "site-packages/macholib/macho_find.py",
+        "path_type": "hardlink",
+        "sha256": "04d3bbcee95626227fd54ba2f13dd563f3a2a25b50618208501eedd284596bb0",
+        "sha256_in_prefix": "04d3bbcee95626227fd54ba2f13dd563f3a2a25b50618208501eedd284596bb0",
+        "size_in_bytes": 396
+      },
+      {
+        "_path": "site-packages/macholib/macho_standalone.py",
+        "path_type": "hardlink",
+        "sha256": "615691c74b117bb75a16b45db63c6364e26c751971e80c837c95706c446c29a5",
+        "sha256_in_prefix": "615691c74b117bb75a16b45db63c6364e26c751971e80c837c95706c446c29a5",
+        "size_in_bytes": 759
+      },
+      {
+        "_path": "site-packages/macholib/ptypes.py",
+        "path_type": "hardlink",
+        "sha256": "3c9d542e6d74563bf833d9b95db077e5af55bd7fc80d35ec008b237fb9f8228a",
+        "sha256_in_prefix": "3c9d542e6d74563bf833d9b95db077e5af55bd7fc80d35ec008b237fb9f8228a",
+        "size_in_bytes": 8431
+      },
+      {
+        "_path": "site-packages/macholib/util.py",
+        "path_type": "hardlink",
+        "sha256": "35ea37da588815af48a59dcf6d2be73edd62c91b7ca5f80ae2479f0f40e91c55",
+        "sha256_in_prefix": "35ea37da588815af48a59dcf6d2be73edd62c91b7ca5f80ae2479f0f40e91c55",
+        "size_in_bytes": 7079
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/MachO.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/MachOGraph.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/MachOStandalone.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/SymbolTable.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/__main__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/_cmdline.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/dyld.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/dylib.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/framework.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/itergraphreport.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/mach_o.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/macho_dump.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/macho_find.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/macho_standalone.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/ptypes.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/macholib/__pycache__/util.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 32891,
+  "subdir": "noarch",
+  "timestamp": 1535456521732,
+  "track_features": "",
+  "url": "https://www.nexus.ford.com/repository/conda_gold_group/noarch/macholib-1.11-py_0.tar.bz2",
+  "version": "1.11"
+}

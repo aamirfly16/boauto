@@ -1,0 +1,200 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://www.nexus.ford.com/repository/conda_gold_group/win-64",
+  "constrains": [],
+  "depends": [
+    "bottle",
+    "bottle-websocket",
+    "future",
+    "python >=3.6,<3.7.0a0",
+    "python_abi 3.6.* *_cp36m",
+    "whichcraft"
+  ],
+  "extracted_package_dir": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\eel-0.12.4-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Eel-0.12.4.dist-info/INSTALLER",
+    "Lib/site-packages/Eel-0.12.4.dist-info/METADATA",
+    "Lib/site-packages/Eel-0.12.4.dist-info/RECORD",
+    "Lib/site-packages/Eel-0.12.4.dist-info/REQUESTED",
+    "Lib/site-packages/Eel-0.12.4.dist-info/WHEEL",
+    "Lib/site-packages/Eel-0.12.4.dist-info/direct_url.json",
+    "Lib/site-packages/Eel-0.12.4.dist-info/top_level.txt",
+    "Lib/site-packages/eel/__init__.py",
+    "Lib/site-packages/eel/__main__.py",
+    "Lib/site-packages/eel/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/eel/__pycache__/__main__.cpython-36.pyc",
+    "Lib/site-packages/eel/__pycache__/browsers.cpython-36.pyc",
+    "Lib/site-packages/eel/__pycache__/chrome.cpython-36.pyc",
+    "Lib/site-packages/eel/__pycache__/edge.cpython-36.pyc",
+    "Lib/site-packages/eel/__pycache__/electron.cpython-36.pyc",
+    "Lib/site-packages/eel/browsers.py",
+    "Lib/site-packages/eel/chrome.py",
+    "Lib/site-packages/eel/edge.py",
+    "Lib/site-packages/eel/eel.js",
+    "Lib/site-packages/eel/electron.py"
+  ],
+  "fn": "eel-0.12.4-py36_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\eel-0.12.4-py36_0",
+    "type": 1
+  },
+  "md5": "e310f49ccd3ecb9a82c80a96f4398086",
+  "name": "eel",
+  "package_tarball_full_path": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\eel-0.12.4-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/Eel-0.12.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/Eel-0.12.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ea3aee0b47ba2d23e5c9281c78e92e4a5063ec271bc16d2b59b30878b75023e9",
+        "sha256_in_prefix": "ea3aee0b47ba2d23e5c9281c78e92e4a5063ec271bc16d2b59b30878b75023e9",
+        "size_in_bytes": 15830
+      },
+      {
+        "_path": "Lib/site-packages/Eel-0.12.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "927c1541e4fb33eb4bcfe7079c08e439145b99936290298c08685a757e747d71",
+        "sha256_in_prefix": "927c1541e4fb33eb4bcfe7079c08e439145b99936290298c08685a757e747d71",
+        "size_in_bytes": 1303
+      },
+      {
+        "_path": "Lib/site-packages/Eel-0.12.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/Eel-0.12.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/Eel-0.12.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "53902c2d88da95e1525d7be9edda2824e0ffc5e74de7bedffcdba7afabc23170",
+        "sha256_in_prefix": "53902c2d88da95e1525d7be9edda2824e0ffc5e74de7bedffcdba7afabc23170",
+        "size_in_bytes": 125
+      },
+      {
+        "_path": "Lib/site-packages/Eel-0.12.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "660b72a862480c67348318a93a77101b8e53f5bcb1831a915bd2050d73b88899",
+        "sha256_in_prefix": "660b72a862480c67348318a93a77101b8e53f5bcb1831a915bd2050d73b88899",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/eel/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "cdf4ac768e8f590ceb22ac07ae166f2460864ec2901965dd4ba84f3a281e3805",
+        "sha256_in_prefix": "cdf4ac768e8f590ceb22ac07ae166f2460864ec2901965dd4ba84f3a281e3805",
+        "size_in_bytes": 11697
+      },
+      {
+        "_path": "Lib/site-packages/eel/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "19f59b80673ba698437c1177871723a824b1816d2c7a030a784d01a09646c691",
+        "sha256_in_prefix": "19f59b80673ba698437c1177871723a824b1816d2c7a030a784d01a09646c691",
+        "size_in_bytes": 729
+      },
+      {
+        "_path": "Lib/site-packages/eel/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "229ae2884850fbb631de7208c51e34466e3091878dfa0baaf3c3b9223abed0cb",
+        "sha256_in_prefix": "229ae2884850fbb631de7208c51e34466e3091878dfa0baaf3c3b9223abed0cb",
+        "size_in_bytes": 9052
+      },
+      {
+        "_path": "Lib/site-packages/eel/__pycache__/__main__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "9904f75289dcf5fb5cee37106dc496724890a9d84e35c67b707769056242fc30",
+        "sha256_in_prefix": "9904f75289dcf5fb5cee37106dc496724890a9d84e35c67b707769056242fc30",
+        "size_in_bytes": 780
+      },
+      {
+        "_path": "Lib/site-packages/eel/__pycache__/browsers.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4955f620609905df1e650e0db1abd0886737ef8a3e69e5a0b2e120bc341ba0bc",
+        "sha256_in_prefix": "4955f620609905df1e650e0db1abd0886737ef8a3e69e5a0b2e120bc341ba0bc",
+        "size_in_bytes": 1822
+      },
+      {
+        "_path": "Lib/site-packages/eel/__pycache__/chrome.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e0696949ea7d2eb73248be79580689977cc2dee3b9d9c4f3ebf5f6bee9f6eacf",
+        "sha256_in_prefix": "e0696949ea7d2eb73248be79580689977cc2dee3b9d9c4f3ebf5f6bee9f6eacf",
+        "size_in_bytes": 2662
+      },
+      {
+        "_path": "Lib/site-packages/eel/__pycache__/edge.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "02edb1d067fdc0c52a2450008de3ac40789a6b94d4b2f3f3f05f06ab5dcc0086",
+        "sha256_in_prefix": "02edb1d067fdc0c52a2450008de3ac40789a6b94d4b2f3f3f05f06ab5dcc0086",
+        "size_in_bytes": 540
+      },
+      {
+        "_path": "Lib/site-packages/eel/__pycache__/electron.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4c1093d69ab66c7e49028ac1a3db1e629d97011faf134b11aef9ffe7b9365b95",
+        "sha256_in_prefix": "4c1093d69ab66c7e49028ac1a3db1e629d97011faf134b11aef9ffe7b9365b95",
+        "size_in_bytes": 806
+      },
+      {
+        "_path": "Lib/site-packages/eel/browsers.py",
+        "path_type": "hardlink",
+        "sha256": "1c40b8c2b354313f418c26d6856d27a2892948d8ade09a4072a5ddca5709506a",
+        "sha256_in_prefix": "1c40b8c2b354313f418c26d6856d27a2892948d8ade09a4072a5ddca5709506a",
+        "size_in_bytes": 2246
+      },
+      {
+        "_path": "Lib/site-packages/eel/chrome.py",
+        "path_type": "hardlink",
+        "sha256": "8ae8b7bf2aa566623f605fad5bc356d35e151169181c896df26ae5010856d6ff",
+        "sha256_in_prefix": "8ae8b7bf2aa566623f605fad5bc356d35e151169181c896df26ae5010856d6ff",
+        "size_in_bytes": 2808
+      },
+      {
+        "_path": "Lib/site-packages/eel/edge.py",
+        "path_type": "hardlink",
+        "sha256": "b3bc0a73cef7a6a6d9c0ccec153852d0b70871e219e25e37da16bd578eaaf085",
+        "sha256_in_prefix": "b3bc0a73cef7a6a6d9c0ccec153852d0b70871e219e25e37da16bd578eaaf085",
+        "size_in_bytes": 333
+      },
+      {
+        "_path": "Lib/site-packages/eel/eel.js",
+        "path_type": "hardlink",
+        "sha256": "2fe7c4b9a016b4656605b5c13ac8d790a616b160e4a14f286450713f0ef9ae74",
+        "sha256_in_prefix": "2fe7c4b9a016b4656605b5c13ac8d790a616b160e4a14f286450713f0ef9ae74",
+        "size_in_bytes": 4996
+      },
+      {
+        "_path": "Lib/site-packages/eel/electron.py",
+        "path_type": "hardlink",
+        "sha256": "29652c98ca91bdda5d97e909e3f11bf521e52ded268b2d7497c137a63ac45818",
+        "sha256_in_prefix": "29652c98ca91bdda5d97e909e3f11bf521e52ded268b2d7497c137a63ac45818",
+        "size_in_bytes": 708
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 26873,
+  "subdir": "win-64",
+  "timestamp": 1620308750496,
+  "track_features": "",
+  "url": "https://www.nexus.ford.com/repository/conda_gold_group/win-64/eel-0.12.4-py36_0.tar.bz2",
+  "version": "0.12.4"
+}

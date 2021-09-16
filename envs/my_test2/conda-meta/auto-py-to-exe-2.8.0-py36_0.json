@@ -1,0 +1,414 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://www.nexus.ford.com/repository/conda_gold_group/win-64",
+  "constrains": [],
+  "depends": [
+    "eel 0.12.4",
+    "pyinstaller >=4.1",
+    "python >=3.6,<3.7.0a0",
+    "python_abi 3.6.* *_cp36m"
+  ],
+  "extracted_package_dir": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\auto-py-to-exe-2.8.0-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/INSTALLER",
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/LICENSE",
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/METADATA",
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/RECORD",
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/REQUESTED",
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/WHEEL",
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/direct_url.json",
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/entry_points.txt",
+    "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/top_level.txt",
+    "Lib/site-packages/auto_py_to_exe/__init__.py",
+    "Lib/site-packages/auto_py_to_exe/__main__.py",
+    "Lib/site-packages/auto_py_to_exe/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/auto_py_to_exe/__pycache__/__main__.cpython-36.pyc",
+    "Lib/site-packages/auto_py_to_exe/__pycache__/config.cpython-36.pyc",
+    "Lib/site-packages/auto_py_to_exe/__pycache__/dialogs.cpython-36.pyc",
+    "Lib/site-packages/auto_py_to_exe/__pycache__/packaging.cpython-36.pyc",
+    "Lib/site-packages/auto_py_to_exe/__pycache__/ui.cpython-36.pyc",
+    "Lib/site-packages/auto_py_to_exe/__pycache__/utils.cpython-36.pyc",
+    "Lib/site-packages/auto_py_to_exe/__pycache__/validation.cpython-36.pyc",
+    "Lib/site-packages/auto_py_to_exe/config.py",
+    "Lib/site-packages/auto_py_to_exe/dialogs.py",
+    "Lib/site-packages/auto_py_to_exe/packaging.py",
+    "Lib/site-packages/auto_py_to_exe/ui.py",
+    "Lib/site-packages/auto_py_to_exe/utils.py",
+    "Lib/site-packages/auto_py_to_exe/validation.py",
+    "Lib/site-packages/auto_py_to_exe/web/Nunito-Light.ttf",
+    "Lib/site-packages/auto_py_to_exe/web/css/general.css",
+    "Lib/site-packages/auto_py_to_exe/web/css/main.css",
+    "Lib/site-packages/auto_py_to_exe/web/favicon.ico",
+    "Lib/site-packages/auto_py_to_exe/web/img/chevron-square-up.svg",
+    "Lib/site-packages/auto_py_to_exe/web/img/plus.svg",
+    "Lib/site-packages/auto_py_to_exe/web/img/remove.svg",
+    "Lib/site-packages/auto_py_to_exe/web/index.html",
+    "Lib/site-packages/auto_py_to_exe/web/js/configuration.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/constants.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/i18n.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/importExport.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/initialise.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/interface.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/messages.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/packaging.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/staticEvents.js",
+    "Lib/site-packages/auto_py_to_exe/web/js/utils.js",
+    "Scripts/auto-py-to-exe-script.py",
+    "Scripts/auto-py-to-exe.exe",
+    "Scripts/autopytoexe-script.py",
+    "Scripts/autopytoexe.exe"
+  ],
+  "fn": "auto-py-to-exe-2.8.0-py36_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\auto-py-to-exe-2.8.0-py36_0",
+    "type": 1
+  },
+  "md5": "41698a3fa17ba0b50b82d8c5e77e5606",
+  "name": "auto-py-to-exe",
+  "package_tarball_full_path": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\auto-py-to-exe-2.8.0-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "1b9d5dea3dfc199b9c4239e24daa6f9db9685f7db145fd1b2bdb1d5bb434629f",
+        "sha256_in_prefix": "1b9d5dea3dfc199b9c4239e24daa6f9db9685f7db145fd1b2bdb1d5bb434629f",
+        "size_in_bytes": 1072
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "db3c4c8a2b8acc83a4839e5f034196f5aba37b228417355858bee398c750de3c",
+        "sha256_in_prefix": "db3c4c8a2b8acc83a4839e5f034196f5aba37b228417355858bee398c750de3c",
+        "size_in_bytes": 7791
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ecac343c3ac0ffc3c897780f21b398ad3fc83c1eb8710961ae6857fb2ac7ee0a",
+        "sha256_in_prefix": "ecac343c3ac0ffc3c897780f21b398ad3fc83c1eb8710961ae6857fb2ac7ee0a",
+        "size_in_bytes": 3740
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f5ab41a857081606ffc44dce73fd691ef28250ee24e97ace14aa156a1d4d59fd",
+        "sha256_in_prefix": "f5ab41a857081606ffc44dce73fd691ef28250ee24e97ace14aa156a1d4d59fd",
+        "size_in_bytes": 136
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "3524983f5524c8cc65036ee5d543cb5a0baf07ae3c0126f5a649e8e869a81d24",
+        "sha256_in_prefix": "3524983f5524c8cc65036ee5d543cb5a0baf07ae3c0126f5a649e8e869a81d24",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe-2.8.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "90418848031aaf1c0e967af28d3f0352265206ae7e558853eebbc91400190fd8",
+        "sha256_in_prefix": "90418848031aaf1c0e967af28d3f0352265206ae7e558853eebbc91400190fd8",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3ebef095a8bee529e3f94b4d5bc761777c75b9ee9711cce5bd34f7626023e76b",
+        "sha256_in_prefix": "3ebef095a8bee529e3f94b4d5bc761777c75b9ee9711cce5bd34f7626023e76b",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "17632a1084b74f79b082631a021c864a01bee63a94b1fb5768945e30f05a405b",
+        "sha256_in_prefix": "17632a1084b74f79b082631a021c864a01bee63a94b1fb5768945e30f05a405b",
+        "size_in_bytes": 2899
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "813a43d1f1b3db287f37440bfc7638708c787ea591eaef7c283db9b70b3b96a5",
+        "sha256_in_prefix": "813a43d1f1b3db287f37440bfc7638708c787ea591eaef7c283db9b70b3b96a5",
+        "size_in_bytes": 148
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__pycache__/__main__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "9ce50375fff1747aae1a9bfd096d735fb466641c9d67779ef0a450256ebfc5ac",
+        "sha256_in_prefix": "9ce50375fff1747aae1a9bfd096d735fb466641c9d67779ef0a450256ebfc5ac",
+        "size_in_bytes": 2266
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__pycache__/config.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4ef766b02aac38bea03cf1792aa00fa30475913bee33b194e0a87c271e751407",
+        "sha256_in_prefix": "4ef766b02aac38bea03cf1792aa00fa30475913bee33b194e0a87c271e751407",
+        "size_in_bytes": 689
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__pycache__/dialogs.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e8589a5568b995dcb624e1f53ebd7ae555e7e1b76723be4de067b2f4c5fd1d27",
+        "sha256_in_prefix": "e8589a5568b995dcb624e1f53ebd7ae555e7e1b76723be4de067b2f4c5fd1d27",
+        "size_in_bytes": 2549
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__pycache__/packaging.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5e6845779767dd615220cd920a14a6f731f2dd4f006ae4977da736432a4fd1a2",
+        "sha256_in_prefix": "5e6845779767dd615220cd920a14a6f731f2dd4f006ae4977da736432a4fd1a2",
+        "size_in_bytes": 3791
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__pycache__/ui.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "3edb2c157fbdd94bb918fe552e18ee68fcb21ecedbabb3053796696056da736d",
+        "sha256_in_prefix": "3edb2c157fbdd94bb918fe552e18ee68fcb21ecedbabb3053796696056da736d",
+        "size_in_bytes": 4720
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__pycache__/utils.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "0409c82da5030e191a01305cc70c14d3e0b36c1c3b79f3dd69b4bded67b31a22",
+        "sha256_in_prefix": "0409c82da5030e191a01305cc70c14d3e0b36c1c3b79f3dd69b4bded67b31a22",
+        "size_in_bytes": 2698
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/__pycache__/validation.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5ea6f087f3eae289daaf3a4e1e51a3ae7a4ef4416b3d68d0f371088e1b3b1c2f",
+        "sha256_in_prefix": "5ea6f087f3eae289daaf3a4e1e51a3ae7a4ef4416b3d68d0f371088e1b3b1c2f",
+        "size_in_bytes": 1381
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/config.py",
+        "path_type": "hardlink",
+        "sha256": "4b143be14745cb7730920968e8e1063cceff2ba3952d8d5ec1d5c42f69587447",
+        "sha256_in_prefix": "4b143be14745cb7730920968e8e1063cceff2ba3952d8d5ec1d5c42f69587447",
+        "size_in_bytes": 591
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/dialogs.py",
+        "path_type": "hardlink",
+        "sha256": "64ce5eac64268ca4ffca2efafb0c6f82c7a5f3fe78b023bc5a02831a89cab003",
+        "sha256_in_prefix": "64ce5eac64268ca4ffca2efafb0c6f82c7a5f3fe78b023bc5a02831a89cab003",
+        "size_in_bytes": 2981
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/packaging.py",
+        "path_type": "hardlink",
+        "sha256": "20c6c7a21ba214936481035103a5efe9dbcbff415a5a1bae218a9a1f67a341dc",
+        "sha256_in_prefix": "20c6c7a21ba214936481035103a5efe9dbcbff415a5a1bae218a9a1f67a341dc",
+        "size_in_bytes": 5124
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/ui.py",
+        "path_type": "hardlink",
+        "sha256": "2282842bed61e01981423d2b4a9aa68356b06a58bac8170596b82d98ea620beb",
+        "sha256_in_prefix": "2282842bed61e01981423d2b4a9aa68356b06a58bac8170596b82d98ea620beb",
+        "size_in_bytes": 4435
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/utils.py",
+        "path_type": "hardlink",
+        "sha256": "2f57882f49c7cd9065b68cabc763e1227aa4263da8a96ffe67ad998a6c079c23",
+        "sha256_in_prefix": "2f57882f49c7cd9065b68cabc763e1227aa4263da8a96ffe67ad998a6c079c23",
+        "size_in_bytes": 2801
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/validation.py",
+        "path_type": "hardlink",
+        "sha256": "f0a9f0130dc504939024ad6a301396ac1530d8056ebc8380b9540002a4b42f76",
+        "sha256_in_prefix": "f0a9f0130dc504939024ad6a301396ac1530d8056ebc8380b9540002a4b42f76",
+        "size_in_bytes": 1200
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/Nunito-Light.ttf",
+        "path_type": "hardlink",
+        "sha256": "1848f12ce6d5c35a749b80deec7d8041131655242246b2be1583b5c3787c2371",
+        "sha256_in_prefix": "1848f12ce6d5c35a749b80deec7d8041131655242246b2be1583b5c3787c2371",
+        "size_in_bytes": 48576
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/css/general.css",
+        "path_type": "hardlink",
+        "sha256": "a5d3c872966c22fdb098c614441397a0e9f2cea5e3f686ecb51cba1b07d54ecf",
+        "sha256_in_prefix": "a5d3c872966c22fdb098c614441397a0e9f2cea5e3f686ecb51cba1b07d54ecf",
+        "size_in_bytes": 2906
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/css/main.css",
+        "path_type": "hardlink",
+        "sha256": "893bd6a98488c127e48690b18f4582618a4182d22f06e011c11ed98540e3a3ad",
+        "sha256_in_prefix": "893bd6a98488c127e48690b18f4582618a4182d22f06e011c11ed98540e3a3ad",
+        "size_in_bytes": 4761
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/favicon.ico",
+        "path_type": "hardlink",
+        "sha256": "ba4b855c193b6ba8bf555d82d5db1bf5b9fa437f2405a770ee9864f66ea8f6bd",
+        "sha256_in_prefix": "ba4b855c193b6ba8bf555d82d5db1bf5b9fa437f2405a770ee9864f66ea8f6bd",
+        "size_in_bytes": 167233
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/img/chevron-square-up.svg",
+        "path_type": "hardlink",
+        "sha256": "c3d2358d8298e3980150cbd735bec96ce44f32f76c32aa5830666b072eb1d14a",
+        "sha256_in_prefix": "c3d2358d8298e3980150cbd735bec96ce44f32f76c32aa5830666b072eb1d14a",
+        "size_in_bytes": 540
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/img/plus.svg",
+        "path_type": "hardlink",
+        "sha256": "751b5452846d8cef2cf8e03723c59e5ac02f07b1f14a0f8fe96b6a482d2e02af",
+        "sha256_in_prefix": "751b5452846d8cef2cf8e03723c59e5ac02f07b1f14a0f8fe96b6a482d2e02af",
+        "size_in_bytes": 549
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/img/remove.svg",
+        "path_type": "hardlink",
+        "sha256": "cdd19da3b336ef547202d8aa067fb52a95b087d4eddc60e5a959c953948e8197",
+        "sha256_in_prefix": "cdd19da3b336ef547202d8aa067fb52a95b087d4eddc60e5a959c953948e8197",
+        "size_in_bytes": 444
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/index.html",
+        "path_type": "hardlink",
+        "sha256": "48a1bac67e802c1ceb949e7be70287a69604ddbd9df3de6be9df3388d432363f",
+        "sha256_in_prefix": "48a1bac67e802c1ceb949e7be70287a69604ddbd9df3de6be9df3388d432363f",
+        "size_in_bytes": 12231
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/configuration.js",
+        "path_type": "hardlink",
+        "sha256": "f2d2b68d690b0c4af2971530bfd4b38d6edeab44526326f7abd9f0aee7181341",
+        "sha256_in_prefix": "f2d2b68d690b0c4af2971530bfd4b38d6edeab44526326f7abd9f0aee7181341",
+        "size_in_bytes": 2657
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/constants.js",
+        "path_type": "hardlink",
+        "sha256": "c92eab5aadad21de6fb851c19e2d330bfbf529335e215d47c8056cfe12062743",
+        "sha256_in_prefix": "c92eab5aadad21de6fb851c19e2d330bfbf529335e215d47c8056cfe12062743",
+        "size_in_bytes": 2526
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/i18n.js",
+        "path_type": "hardlink",
+        "sha256": "97e8f3498afbe8b82db0f4aff9772cb428cfa3d3de3c80787aa98a5bd6bb9bda",
+        "sha256_in_prefix": "97e8f3498afbe8b82db0f4aff9772cb428cfa3d3de3c80787aa98a5bd6bb9bda",
+        "size_in_bytes": 12791
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/importExport.js",
+        "path_type": "hardlink",
+        "sha256": "879cf20840e83d26a40c043bc5084b3a910a969499b622a1d5e859f9a6b0c930",
+        "sha256_in_prefix": "879cf20840e83d26a40c043bc5084b3a910a969499b622a1d5e859f9a6b0c930",
+        "size_in_bytes": 1318
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/initialise.js",
+        "path_type": "hardlink",
+        "sha256": "308463948e06cd72980bbb0fe75f65decf8c0639eff0d427feb808664f43c6c5",
+        "sha256_in_prefix": "308463948e06cd72980bbb0fe75f65decf8c0639eff0d427feb808664f43c6c5",
+        "size_in_bytes": 3398
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/interface.js",
+        "path_type": "hardlink",
+        "sha256": "6d14079700bf935752c78b512639ac6319bc3de14ab8fae6c8f0555340c93b93",
+        "sha256_in_prefix": "6d14079700bf935752c78b512639ac6319bc3de14ab8fae6c8f0555340c93b93",
+        "size_in_bytes": 16207
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/messages.js",
+        "path_type": "hardlink",
+        "sha256": "06d5d0880ad761ecfc34a1a5d9ca8024bbdc6a147b00eb2e9427fed460db936e",
+        "sha256_in_prefix": "06d5d0880ad761ecfc34a1a5d9ca8024bbdc6a147b00eb2e9427fed460db936e",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/packaging.js",
+        "path_type": "hardlink",
+        "sha256": "b9fa19331b29a5d34aa03927d58d36381f93e10334882b97715c86c82b3d7c83",
+        "sha256_in_prefix": "b9fa19331b29a5d34aa03927d58d36381f93e10334882b97715c86c82b3d7c83",
+        "size_in_bytes": 2630
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/staticEvents.js",
+        "path_type": "hardlink",
+        "sha256": "a5f02745d1c55d254d5d8e12220ae43f1b035189c5de2bdc34369727cba82e1a",
+        "sha256_in_prefix": "a5f02745d1c55d254d5d8e12220ae43f1b035189c5de2bdc34369727cba82e1a",
+        "size_in_bytes": 9754
+      },
+      {
+        "_path": "Lib/site-packages/auto_py_to_exe/web/js/utils.js",
+        "path_type": "hardlink",
+        "sha256": "2b55bf92d58970f47f9329157937e8f99af0583444eaa0909c9434a6acbaf6cb",
+        "sha256_in_prefix": "2b55bf92d58970f47f9329157937e8f99af0583444eaa0909c9434a6acbaf6cb",
+        "size_in_bytes": 773
+      },
+      {
+        "_path": "Scripts/auto-py-to-exe-script.py",
+        "path_type": "hardlink",
+        "sha256": "1d108429ec9578d832432c386ae9d9ecb7a2c47a7e8900a7464106e5e5c1471d",
+        "sha256_in_prefix": "1d108429ec9578d832432c386ae9d9ecb7a2c47a7e8900a7464106e5e5c1471d",
+        "size_in_bytes": 215
+      },
+      {
+        "_path": "Scripts/auto-py-to-exe.exe",
+        "path_type": "hardlink",
+        "sha256": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+        "sha256_in_prefix": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+        "size_in_bytes": 40960
+      },
+      {
+        "_path": "Scripts/autopytoexe-script.py",
+        "path_type": "hardlink",
+        "sha256": "1d108429ec9578d832432c386ae9d9ecb7a2c47a7e8900a7464106e5e5c1471d",
+        "sha256_in_prefix": "1d108429ec9578d832432c386ae9d9ecb7a2c47a7e8900a7464106e5e5c1471d",
+        "size_in_bytes": 215
+      },
+      {
+        "_path": "Scripts/autopytoexe.exe",
+        "path_type": "hardlink",
+        "sha256": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+        "sha256_in_prefix": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+        "size_in_bytes": 40960
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "auto-py-to-exe",
+  "size": 109113,
+  "subdir": "win-64",
+  "timestamp": 1620309332998,
+  "track_features": "",
+  "url": "https://www.nexus.ford.com/repository/conda_gold_group/win-64/auto-py-to-exe-2.8.0-py36_0.tar.bz2",
+  "version": "2.8.0"
+}

@@ -1,0 +1,151 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "<unknown>",
+  "constrains": [],
+  "depends": [
+    "flask",
+    "flask-babel",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\flask_table-0.5.0-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Flask_Table-0.5.0-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/Flask_Table-0.5.0-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/Flask_Table-0.5.0-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/Flask_Table-0.5.0-py2.7.egg-info/installed-files.txt",
+    "Lib/site-packages/Flask_Table-0.5.0-py2.7.egg-info/requires.txt",
+    "Lib/site-packages/Flask_Table-0.5.0-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/flask_table/__init__.py",
+    "Lib/site-packages/flask_table/columns.py",
+    "Lib/site-packages/flask_table/compat.py",
+    "Lib/site-packages/flask_table/html.py",
+    "Lib/site-packages/flask_table/table.py",
+    "Lib/site-packages/flask_table/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/flask_table/__pycache__/columns.cpython-36.pyc",
+    "Lib/site-packages/flask_table/__pycache__/compat.cpython-36.pyc",
+    "Lib/site-packages/flask_table/__pycache__/html.cpython-36.pyc",
+    "Lib/site-packages/flask_table/__pycache__/table.cpython-36.pyc"
+  ],
+  "fn": "flask_table-0.5.0-py_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\flask_table-0.5.0-py_0",
+    "type": 1
+  },
+  "md5": "90c970f0498531569f7771e213b00851",
+  "name": "flask_table",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\flask_table-0.5.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Flask_Table-0.5.0-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "9c034d650ffee9523460c1cba000506578ca5baad1b4b47325f1b070967e4923",
+        "sha256_in_prefix": "9c034d650ffee9523460c1cba000506578ca5baad1b4b47325f1b070967e4923",
+        "size_in_bytes": 690
+      },
+      {
+        "_path": "site-packages/Flask_Table-0.5.0-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "b8d68a8c2cb89c4cf7cbfaa9286f123ae5011e307a721115819f6f6c291a8b4f",
+        "sha256_in_prefix": "b8d68a8c2cb89c4cf7cbfaa9286f123ae5011e307a721115819f6f6c291a8b4f",
+        "size_in_bytes": 313
+      },
+      {
+        "_path": "site-packages/Flask_Table-0.5.0-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/Flask_Table-0.5.0-py2.7.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "440a8f22abbf487a71b33f87dfc9082a8760dfd685b1671609cc5f297bd6b11a",
+        "sha256_in_prefix": "440a8f22abbf487a71b33f87dfc9082a8760dfd685b1671609cc5f297bd6b11a",
+        "size_in_bytes": 324
+      },
+      {
+        "_path": "site-packages/Flask_Table-0.5.0-py2.7.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "cbccc0478d7feed82632ea1ee8111e46e79924b5790989aeafeb8490016cb273",
+        "sha256_in_prefix": "cbccc0478d7feed82632ea1ee8111e46e79924b5790989aeafeb8490016cb273",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "site-packages/Flask_Table-0.5.0-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ea29969ee3b80b65a2f1bb2f2abfcfbf34e6c37a4732f437bccb8941959094cb",
+        "sha256_in_prefix": "ea29969ee3b80b65a2f1bb2f2abfcfbf34e6c37a4732f437bccb8941959094cb",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/flask_table/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c218796ed5aa9e92aad1eb93a6d7528980b162493ac58f41d4cacbe7f2137bd9",
+        "sha256_in_prefix": "c218796ed5aa9e92aad1eb93a6d7528980b162493ac58f41d4cacbe7f2137bd9",
+        "size_in_bytes": 191
+      },
+      {
+        "_path": "site-packages/flask_table/columns.py",
+        "path_type": "hardlink",
+        "sha256": "7ca4a623c37de719e8908eaf147d6dc486b746ab2f38e5373b17d9486af3c705",
+        "sha256_in_prefix": "7ca4a623c37de719e8908eaf147d6dc486b746ab2f38e5373b17d9486af3c705",
+        "size_in_bytes": 11970
+      },
+      {
+        "_path": "site-packages/flask_table/compat.py",
+        "path_type": "hardlink",
+        "sha256": "de44bf665bc74061fe9d051096ad4781c52796a174dfeb9ff0e7b970980b58c7",
+        "sha256_in_prefix": "de44bf665bc74061fe9d051096ad4781c52796a174dfeb9ff0e7b970980b58c7",
+        "size_in_bytes": 79
+      },
+      {
+        "_path": "site-packages/flask_table/html.py",
+        "path_type": "hardlink",
+        "sha256": "d2255442157c627f2d7db4f3c9ba34fdd555f77f9a58068f9c6ca35f2694488e",
+        "sha256_in_prefix": "d2255442157c627f2d7db4f3c9ba34fdd555f77f9a58068f9c6ca35f2694488e",
+        "size_in_bytes": 963
+      },
+      {
+        "_path": "site-packages/flask_table/table.py",
+        "path_type": "hardlink",
+        "sha256": "20d6a700dc50cb6b8eb2fd5924c64a29bbc4eae68942d0d9bfb5e7a838ff6266",
+        "sha256_in_prefix": "20d6a700dc50cb6b8eb2fd5924c64a29bbc4eae68942d0d9bfb5e7a838ff6266",
+        "size_in_bytes": 6247
+      },
+      {
+        "_path": "Lib/site-packages/flask_table/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_table/__pycache__/columns.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_table/__pycache__/compat.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_table/__pycache__/html.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_table/__pycache__/table.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "flask_table[url=file:///C:/Users/ppasha/Downloads/flask_table-0.5.0-py_0.tar.bz2]",
+  "subdir": "noarch",
+  "timestamp": 1533507433860,
+  "track_features": "",
+  "url": "file:///C:/Users/ppasha/Downloads/flask_table-0.5.0-py_0.tar.bz2",
+  "version": "0.5.0"
+}

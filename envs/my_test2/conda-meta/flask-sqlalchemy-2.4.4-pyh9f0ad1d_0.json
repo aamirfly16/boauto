@@ -1,0 +1,147 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://www.nexus.ford.com/repository/conda_gold_group/noarch",
+  "constrains": [],
+  "depends": [
+    "flask >=1.0.4",
+    "python",
+    "sqlalchemy >=1.2"
+  ],
+  "extracted_package_dir": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\flask-sqlalchemy-2.4.4-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Flask_SQLAlchemy-2.4.4.dist-info/INSTALLER",
+    "Lib/site-packages/Flask_SQLAlchemy-2.4.4.dist-info/LICENSE.rst",
+    "Lib/site-packages/Flask_SQLAlchemy-2.4.4.dist-info/METADATA",
+    "Lib/site-packages/Flask_SQLAlchemy-2.4.4.dist-info/RECORD",
+    "Lib/site-packages/Flask_SQLAlchemy-2.4.4.dist-info/WHEEL",
+    "Lib/site-packages/Flask_SQLAlchemy-2.4.4.dist-info/direct_url.json",
+    "Lib/site-packages/Flask_SQLAlchemy-2.4.4.dist-info/top_level.txt",
+    "Lib/site-packages/flask_sqlalchemy/__init__.py",
+    "Lib/site-packages/flask_sqlalchemy/_compat.py",
+    "Lib/site-packages/flask_sqlalchemy/model.py",
+    "Lib/site-packages/flask_sqlalchemy/utils.py",
+    "Lib/site-packages/flask_sqlalchemy/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/flask_sqlalchemy/__pycache__/_compat.cpython-36.pyc",
+    "Lib/site-packages/flask_sqlalchemy/__pycache__/model.cpython-36.pyc",
+    "Lib/site-packages/flask_sqlalchemy/__pycache__/utils.cpython-36.pyc"
+  ],
+  "fn": "flask-sqlalchemy-2.4.4-pyh9f0ad1d_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\flask-sqlalchemy-2.4.4-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "1b10d4018e8248d0ae4b70403ae4355c",
+  "name": "flask-sqlalchemy",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\ppasha\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\flask-sqlalchemy-2.4.4-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Flask_SQLAlchemy-2.4.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/Flask_SQLAlchemy-2.4.4.dist-info/LICENSE.rst",
+        "path_type": "hardlink",
+        "sha256": "489a8e1108509ed98a37bb983e11e0f7e1d31f0bd8f99a79c8448e7ff37d07ea",
+        "sha256_in_prefix": "489a8e1108509ed98a37bb983e11e0f7e1d31f0bd8f99a79c8448e7ff37d07ea",
+        "size_in_bytes": 1475
+      },
+      {
+        "_path": "site-packages/Flask_SQLAlchemy-2.4.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d721f84cbb770cbcca39e70e84f6224c8d166cfea57e91adffd0eb35fc6a114d",
+        "sha256_in_prefix": "d721f84cbb770cbcca39e70e84f6224c8d166cfea57e91adffd0eb35fc6a114d",
+        "size_in_bytes": 3128
+      },
+      {
+        "_path": "site-packages/Flask_SQLAlchemy-2.4.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "0a86a735935a536d4bfdab87efaedc37cc95874af6ccc7d0263f530019dd5b64",
+        "sha256_in_prefix": "0a86a735935a536d4bfdab87efaedc37cc95874af6ccc7d0263f530019dd5b64",
+        "size_in_bytes": 1197
+      },
+      {
+        "_path": "site-packages/Flask_SQLAlchemy-2.4.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/Flask_SQLAlchemy-2.4.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "95f607779a698fe95063dc9f482667d86fcd07ec1a0f7c72e1ab2150dafdae91",
+        "sha256_in_prefix": "95f607779a698fe95063dc9f482667d86fcd07ec1a0f7c72e1ab2150dafdae91",
+        "size_in_bytes": 112
+      },
+      {
+        "_path": "site-packages/Flask_SQLAlchemy-2.4.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c362b87cd3684e1e0722da057f3d854504a149e2dcbc762bcd4fec668bf6d505",
+        "sha256_in_prefix": "c362b87cd3684e1e0722da057f3d854504a149e2dcbc762bcd4fec668bf6d505",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "site-packages/flask_sqlalchemy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "dc6107f87c1ba47ae67776c5a6415b1baebfaf56345bbf309060cd586f38ab3f",
+        "sha256_in_prefix": "dc6107f87c1ba47ae67776c5a6415b1baebfaf56345bbf309060cd586f38ab3f",
+        "size_in_bytes": 39265
+      },
+      {
+        "_path": "site-packages/flask_sqlalchemy/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "cae6b46528155b08b9e90a4483068f227ce4350f4f15bed841dbc4937748997a",
+        "sha256_in_prefix": "cae6b46528155b08b9e90a4483068f227ce4350f4f15bed841dbc4937748997a",
+        "size_in_bytes": 821
+      },
+      {
+        "_path": "site-packages/flask_sqlalchemy/model.py",
+        "path_type": "hardlink",
+        "sha256": "6ddda622ff4b03503631991039b827314092af136fcaaa65692902c72c4a3716",
+        "sha256_in_prefix": "6ddda622ff4b03503631991039b827314092af136fcaaa65692902c72c4a3716",
+        "size_in_bytes": 4988
+      },
+      {
+        "_path": "site-packages/flask_sqlalchemy/utils.py",
+        "path_type": "hardlink",
+        "sha256": "e1e1ea01b60496727735b4801e1b8835c9280070c0068c6395e3090f488a8328",
+        "sha256_in_prefix": "e1e1ea01b60496727735b4801e1b8835c9280070c0068c6395e3090f488a8328",
+        "size_in_bytes": 1390
+      },
+      {
+        "_path": "Lib/site-packages/flask_sqlalchemy/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_sqlalchemy/__pycache__/_compat.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_sqlalchemy/__pycache__/model.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_sqlalchemy/__pycache__/utils.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "flask-sqlalchemy",
+  "size": 18811,
+  "subdir": "noarch",
+  "timestamp": 1594747421761,
+  "track_features": "",
+  "url": "https://www.nexus.ford.com/repository/conda_gold_group/noarch/flask-sqlalchemy-2.4.4-pyh9f0ad1d_0.tar.bz2",
+  "version": "2.4.4"
+}
